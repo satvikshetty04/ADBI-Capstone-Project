@@ -1,0 +1,1 @@
+To run the classifiers implemented in python, exeute multi_label_classifier.py only.
